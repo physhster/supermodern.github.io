@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Supermodern
+email: hello@supermodern.xyz
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: physh
+github_username: physhster
 
 # Build settings
 markdown: kramdown
